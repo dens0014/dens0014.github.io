@@ -1,0 +1,6 @@
+body { font-family: verdana, arial, sans-serif;
+		font-size: 12px;
+		line-height: 1.5; 
+		margin:0;
+		padding: 0;
+		background: blue url(images/bgpic.gif) repeat left top fixed; }
