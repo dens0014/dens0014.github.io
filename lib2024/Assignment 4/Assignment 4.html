@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Celsius to Farenheit Checker</title>
+		<link rel="stylesheet" href="style4.css">
+		<link rel="icon" type="image/x-icon" href="images/temperature.jpg">
+		<script src="java4.js"></script>
+	</head>
+
+	<body>
+
+		<h2>Simple Temperature Conversion</h2>
+		<p>Put any number into the farenheit bar and instantly see the conversion in celsius below!</p>
+
+	<p>
+  <label>Fahrenheit</label>
+  <input id="inputFahrenheit" type="number" placeholder="Fahrenheit"
+  oninput="temperatureConverter(this.value)"
+  onchange="temperatureConverter(this.value)">
+</p>
+<p>Celsius: <span id="outputCelsius"></span></p>
+
+<img src="images/tempimage.png" alt="thermometer"
+	</body>
+</html>

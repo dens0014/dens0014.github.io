@@ -1,0 +1,17 @@
+body {
+  background-color: red;
+}
+
+h2 {
+    text-align: center;
+    border-style: dotted;
+    background-color: #90EE90;
+    font-size: 40px;
+}
+
+p {
+    text-align: center;
+    border-style: dotted;
+    background-color: #90EE90;
+    font-size: 40px;
+}
