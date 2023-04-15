@@ -1,0 +1,20 @@
+body {
+  background-image: url("images/multiple muffins.jpg");
+}
+
+h1 {
+    text-align: center;
+    border-style: solid;
+    background-color: pink;
+    font-size: 40px;
+}
+
+.container {
+	display: flex;
+}
+
+.box {
+}
+
+.muffins {
+}
